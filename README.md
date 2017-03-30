@@ -6,25 +6,15 @@ A continuación tenéis una pequeña explicación sobre de qué va cada una de l
 
 | Charla       | Ponente        | Bio  | Presentación 
 | ------------- |:-------------:|:-----:| ------------- |
-|**Despliegue e integración continua con Codeship + git** | Patricia
-Juárez
-| [Analista en Badger mapping](https://www.badgermapping.com/es/) | |
-**La Historia en las Mecánicas: El Lenguaje Procedimental** | África
-Curiel | Diseñadora de videojuegos ||
-|**Rubber Ducky for the win** | Paula de la Hoz | Grupo
-Interferencias, estudiante de Informática | |
-| **Análisis de datos en R** | Ana Valdivia | Investigadora en ETSIIT,
-fundadora de Data Beers Granada | |
+|**Despliegue e integración continua con Codeship + git** | Patricia Juárez | [Analista en Badger mapping](https://www.badgermapping.com/es/) | |
+**La Historia en las Mecánicas: El Lenguaje Procedimental** | África Curiel | Diseñadora de videojuegos | |
+|**Rubber Ducky for the win** | Paula de la Hoz | Grupo Interferencias, estudiante de Informática | |
+| **Análisis de datos en R** | Ana Valdivia | Investigadora en ETSIIT, fundadora de Data Beers Granada | |
 | **Open Data en la UGR** | Nuria Rico | Profesora de Estadística | |
-| **Introducción a Docker** | María del Mar Ibáñez | Estudiante de
-Informática ||
-| **Desarrollo ágil con SCRUM** | María Hinojosa | Encargada de
-tecnología en [Codeko.com](http://codeko.com)|
-| **Invisible o desaparece**| Isabel Cabezas | Evangelista técnica
-en [Microsoft](http://microsoft.com) ||
-| **6 cosas que posiblemente no sepas sobre Perl 6**| Charo Merelo |
-Estudiante de 2º de Bachillerato, antigua alumna del campus
-tecnológico para chicas |
+| **Introducción a Docker** | María del Mar Ibáñez | Estudiante de Informática ||
+| **Desarrollo ágil con SCRUM** | María Hinojosa | Encargada de tecnología en [Codeko.com](http://codeko.com)|
+| **Invisible o desaparece**| Isabel Cabezas | Evangelista técnica en [Microsoft España](http://microsoft.es), fundadora de Ada Labs | |
+| **6 cosas que posiblemente no sepas sobre Perl 6**| Charo Merelo | Estudiante de 2º de Bachillerato, antigua alumna del [campus tecnológico para chicas](http://sereingeniera.ugr.es) |
 
 ## Talleres
 
