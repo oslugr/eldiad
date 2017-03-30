@@ -8,7 +8,7 @@ A continuación tenéis una pequeña explicación sobre de qué va cada una de l
 | -------------|:--------------:|:-----:| ------------- |
 |**Despliega código en la nube de forma ágil** | Patricia Juárez | [Analista en Badger mapping](https://www.badgermapping.com/es/) | |
 |**La Historia en las Mecánicas: El Lenguaje Procedimental** | África Curiel | Diseñadora de videojuegos, fundadora de [Femdevs](https://femdevs.org/) | |
-|**Rubber Ducky for the win** | Paula de la Hoz | Fundadora del [grupo Interferencias](https://interferencias.github.io/), estudiante de Informática | |
+|**Rubber Ducky for the win** | Paula de la Hoz | Fundadora del [grupo Interferencias](https://interferencias.github.io/), estudiante de Informática | [Rubber Ducky](https://github.com/terceranexus6/charlas/blob/master/rubberduckypres.pdf) |
 | **Análisis de datos en R** | Ana Valdivia | Científica de datos, fundadora de [DataBeers Granada](http://databeersgrx.com/) | |
 | **Open Data en la UGR** | Nuria Rico | Profesora de Estadística | |
 | **Introducción a Docker** | María del Mar Ibáñez | Estudiante de Informática | |
