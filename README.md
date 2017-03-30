@@ -4,52 +4,28 @@ Desde la Oficina de Software Libre hemos preparado una jornada donde tendremos v
 
 A continuación tenéis una pequeña explicación sobre de qué va cada una de las charlas y quienes son las ponentes que las realizan.
 
-- **Despliegue e integración continua con Codeship + git** por Patricia Juárez.
-  - Resumen de la charla:
-  - Biografía de la autora:
-  - Presentación:
+| Charla       | Ponente        | Bio  | Presentación 
+| ------------- |:-------------:|:-----:| ------------- |
+|**Despliegue e integración continua con Codeship + git** | Patricia
+Juárez
+| [Analista en Badger mapping](https://www.badgermapping.com/es/) | |
+**La Historia en las Mecánicas: El Lenguaje Procedimental** | África
+Curiel | Diseñadora de videojuegos ||
+|**Rubber Ducky for the win** | Paula de la Hoz | Grupo
+Interferencias, estudiante de Informática | |
+| **Análisis de datos en R** | Ana Valdivia | Investigadora en ETSIIT,
+fundadora de Data Beers Granada | |
+| **Open Data en la UGR** | Nuria Rico | Profesora de Estadística | |
+| **Introducción a Docker** | María del Mar Ibáñez | Estudiante de
+Informática ||
+| **Desarrollo ágil con SCRUM** | María Hinojosa | Encargada de
+tecnología en [Codeko.com](http://codeko.com)|
+| **Invisible o desaparece**| Isabel Cabezas | Evangelista técnica
+en [Microsoft](http://microsoft.com) ||
+| **6 cosas que posiblemente no sepas sobre Perl 6**| Charo Merelo |
+Estudiante de 2º de Bachillerato, antigua alumna del campus
+tecnológico para chicas |
 
-- **La Historia en las Mecánicas: El Lenguaje Procedimental** por África Curiel.
-  - Resumen de la charla:
-  - Biografía de la autora:
-  - Presentación:
+## Talleres
 
-- **Rubber Ducky for the win** por Paula de la Hoz.
-  - Resumen de la charla:
-  - Biografía de la autora:
-  - Presentación:
 
-- **Análisis de datos en R** por Ana Valdivia.
-  - Resumen de la charla:
-  - Biografía de la autora:
-  - Presentación:
-
-- **Open Data en la UGR** por Nuria Rico.
-  - Resumen de la charla:
-  - Biografía de la autora:
-  - Presentación:
-
-- **Introducción a Docker** por María del Mar Ibáñez.
-  - Resumen de la charla:
-  - Biografía de la autora:
-  - Presentación:
-
-- **Desarrollo ágil con SCRUM** por María Hinojosa.
-  - Resumen de la charla:
-  - Biografía de la autora:
-  - Presentación:
-
-- **Invisible o desaparece** por Isabel Cabezas.
-  - Resumen de la charla:
-  - Biografía de la autora:
-  - Presentación:
-
-- **Cómo testear 100 plataformas y no morir en el intento** por Sara Granados.
-  - Resumen de la charla:
-  - Biografía de la autora:
-  - Presentación:
-
-- **6 cosas que posiblemente no sepas sobre Perl 6** por Charo Merelo.
-  - Resumen de la charla:
-  - Biografía de la autora:
-  - Presentación:
