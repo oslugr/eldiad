@@ -6,7 +6,7 @@ A continuación tenéis una pequeña explicación sobre de qué va cada una de l
 
 | Charla       | Ponente        | Bio   | Presentación  |
 | -------------|:--------------:|:-----:| ------------- |
-|**Despliegue e integración continua con Codeship + git** | Patricia Juárez | [Analista en Badger mapping](https://www.badgermapping.com/es/) | |
+|**Despliega código en la nube de forma ágil** | Patricia Juárez | [Analista en Badger mapping](https://www.badgermapping.com/es/) | |
 |**La Historia en las Mecánicas: El Lenguaje Procedimental** | África Curiel | Diseñadora de videojuegos, fundadora de [Femdevs](https://femdevs.org/) | |
 |**Rubber Ducky for the win** | Paula de la Hoz | Fundadora del [grupo Interferencias](https://interferencias.github.io/), estudiante de Informática | |
 | **Análisis de datos en R** | Ana Valdivia | Científica de datos, fundadora de [DataBeers Granada](http://databeersgrx.com/) | |
