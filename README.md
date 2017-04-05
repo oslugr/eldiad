@@ -18,4 +18,5 @@ A continuación tenéis una pequeña explicación sobre de qué va cada una de l
 
 ## Talleres
 
-* Taller de [Matemáticas divertidas por Perl6](http://jj.github.io/math-is-fun-p6) por JJ Merelo.
+* Taller [Matemáticas divertidas por Perl6](http://jj.github.io/math-is-fun-p6) por JJ Merelo.
+* Taller [Control de Calidad y Desarrollo en proyectos de Software Libre](https://docs.google.com/presentation/d/152j5YWBnuebYaJcZwiAPvd5ckxpzSr0KVj88cKLXsBM) por Xisco Faulí.
